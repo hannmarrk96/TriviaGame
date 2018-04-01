@@ -1,0 +1,29 @@
+body{
+	background: url('../images/castle.jpg');
+	background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+	font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.jumbotron{
+	background-color:initial;
+	text-align: center;
+	color:white;
+}
+
+h1{
+	font-size: 50px;
+}
+#quiz-content{
+	text-align: center;
+}
+
+.selection{
+	margin-top:20px;
+}
+
+.btn{
+	font-size: 30px;
+	margin-left: 20px;
+}
